@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(33, 31, 31);
+    color: rgb(251, 244, 246);
+    
+}
+
+.movie-row > .row{
+    overflow-x: auto ;
+}
+
+.star{
+    cursor: pointer;
+    transition: color 200ms;
+}
